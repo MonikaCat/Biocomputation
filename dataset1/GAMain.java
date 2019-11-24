@@ -1,7 +1,5 @@
 /*
- *
- *  Name: Monika Pusz
- *	Student ID: 16024757
+ *	
  *	Date: 28/11/2018
  *	Course: Comupter Science 
  */
@@ -63,7 +61,7 @@ public class GAMain
         csv_file.append(headers + "\n");
         
         // Read file and store it in array
-        int[] read_file = dataset.readFile("C:\\Users\\Monika\\OneDrive - UWE Bristol (Students)\\University\\Year 3\\Biocomputation\\TESTING\\data1.txt");
+        int[] read_file = dataset.readFile("C:\\Users\\Monika\\OneDrive - UWE Bristol (Students)\\University\\Year 3\\Biocomputation\\data1.txt");
         // Split the input file into the rules 
         Rules[] data_set = dataset.transformDataSet(read_file);
 
