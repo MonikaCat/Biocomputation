@@ -1,7 +1,5 @@
 /*
  *
- *  Name: Monika Pusz
- *	Student ID: 16024757
  *	Date: 28/11/2018
  *	Course: Comupter Science 
  */
